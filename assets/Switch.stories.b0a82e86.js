@@ -1,0 +1,2 @@
+import{h as r}from"./index.520674df.js";import{j as e}from"./jsx-runtime.5ca76c31.js";import"./index.c455632f.js";import"./iframe.21b50e25.js";import"./index.47417610.js";import"./isNativeReflectConstruct.180d4041.js";const c={title:"Form/Switch",component:r,args:{},decorators:[t=>e("div",{style:{display:"flex",flex:1,alignItems:"center",justifyContent:"center"},children:t()})]},l={},p=["Default"];export{l as Default,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Switch.stories.b0a82e86.js.map
